@@ -6,4 +6,4 @@ Criamos uma função no JS que ao clicar no botão enviar, irá aparecer o gabar
 
 ## ✔️ Tela
 
-![Tela do projeto](triv.png)
+![Tela do projeto](img/triv.png)
